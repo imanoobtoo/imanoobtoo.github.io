@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>小小的知识增加了</title>
+      <link href="/2020/05/15/%E5%B0%8F%E7%9F%A5%E8%AF%86/"/>
+      <url>/2020/05/15/%E5%B0%8F%E7%9F%A5%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<p>Java中getResourceAsStream的用法</p><a id="more"></a><p>学习参考：<a href="https://www.cnblogs.com/macwhirr/p/8116583.html" target="_blank" rel="noopener">Java中getResourceAsStream的用法 - 西晒甲山 - 博客园</a></p><h3 id="java知识点之getClass-getResourceAsStream"><a href="#java知识点之getClass-getResourceAsStream" class="headerlink" title="java知识点之getClass().getResourceAsStream"></a>java知识点之getClass().getResourceAsStream</h3><blockquote><p>今日迷惑在于路径参数的不理解，区别在于“/”的引用；<br>带有”/“的路径为根路径下寻找资源，不带”/“的路径为当前类所在的包下寻找资源</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>java</title>
       <link href="/2020/05/14/java%E5%8F%8D%E5%B0%84/"/>
       <url>/2020/05/14/java%E5%8F%8D%E5%B0%84/</url>

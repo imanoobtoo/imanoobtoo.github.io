@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ayame.fun/"/>
-  <updated>2020-05-27T11:26:04.742Z</updated>
+  <updated>2020-05-16T15:14:38.886Z</updated>
   <id>https://ayame.fun/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>SpringBoot学习</title>
-    <link href="https://ayame.fun/2020/05/27/springboot%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%9D%91/"/>
-    <id>https://ayame.fun/2020/05/27/springboot%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%9D%91/</id>
-    <published>2020-05-27T10:47:12.000Z</published>
-    <updated>2020-05-27T11:26:04.742Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是一个长久的学习SpringBoot的计划-始于2020-5-27-18-53-25"><a href="#这是一个长久的学习SpringBoot的计划-始于2020-5-27-18-53-25" class="headerlink" title="这是一个长久的学习SpringBoot的计划     始于2020-5-27 18:53:25"></a>这是一个长久的学习SpringBoot的计划     始于2020-5-27 18:53:25</h2><a id="more"></a><h3 id="学习参考文档"><a href="#学习参考文档" class="headerlink" title="学习参考文档"></a>学习参考文档</h3><blockquote><p><a href="https://www.springcloud.cc/spring-boot.html#boot-documentation-about" target="_blank" rel="noopener">Spring Boot 中文文档 参考手册</a><br><a href="https://github.com/YunaiV/SpringBoot-Labs#spring-boot-%E4%B8%93%E6%A0%8F" target="_blank" rel="noopener">Spring Boot 专栏</a></p></blockquote><h3 id="1-概述"><a href="#1-概述" class="headerlink" title="1.概述"></a>1.概述</h3><blockquote><p>使用 Spring Boot 可以很容易地创建出能直接运行的独立的、生产级别的基于 Spring 的应用。 我们对 Spring 平台和第三方类库有自己的考虑，因此您可以从最基本的开始。大多数 Spring Boot 应用只需要很少的 Spring 配置。</p></blockquote><blockquote><p>您可以使用 Spring Boot 来创建一个可以使用 java -jar 命令来运行或者基于传统的 war 包部署的应用程序。我们还提供了一个用于运行 spring scripts 的命令行工具。</p></blockquote><blockquote><p>我们的主要目标是：</p></blockquote><blockquote><ul><li>为所有 Spring Boot 开发提供一个更快、更全面的入门体验。</li><li>坚持自我虽好，但当需求出现偏离，您需要能迅速摆脱出来。</li><li>提供大量非功能性特性相关项目（例如：内嵌服务器、安全、指标、健康检查、外部配置)。</li><li>绝对没有代码生成，也不要求 XML 配置。</li></ul></blockquote><h3 id="2-快速入门"><a href="#2-快速入门" class="headerlink" title="2.快速入门"></a>2.快速入门</h3><p> 这里直接使用IDEA创建Maven项目<br> File–&gt;New–&gt;Project–&gt;Maven–&gt;Next–&gt;…–&gt;Finish</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;这是一个长久的学习SpringBoot的计划-始于2020-5-27-18-53-25&quot;&gt;&lt;a href=&quot;#这是一个长久的学习SpringBoot的计划-始于2020-5-27-18-53-25&quot; class=&quot;headerlink&quot; title=&quot;这是一个长久的学习SpringBoot的计划     始于2020-5-27 18:53:25&quot;&gt;&lt;/a&gt;这是一个长久的学习SpringBoot的计划     始于2020-5-27 18:53:25&lt;/h2&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="springboot" scheme="https://ayame.fun/tags/springboot/"/>
-    
-  </entry>
   
   <entry>
     <title>Git学习</title>
